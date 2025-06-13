@@ -19,7 +19,7 @@ Batik diakui sebagai warisan budaya dunia oleh UNESCO. Namun, pemahaman masyarak
 
 ## Data Understanding  
 
-Dataset yang digunakan dikumpulkan dari riset dosen dan Repositori Digital Batik Jawa Timur, terdiri dari:  
+Dataset yang digunakan dikumpulkan dari riset dosen dan Repositori Digital Batik Jawa Timur dan dari daerah lain sebagai tambahan, terdiri dari:  
 - **420 gambar batik terkurasi**, disertai label (4 tema: Aristektur, Budaya, Flora, Fauna).
 Link: https://drive.google.com/drive/folders/1q5DXM-7DP_7K_vNUtATjUN9pHhu9cPk4?usp=sharing
 
