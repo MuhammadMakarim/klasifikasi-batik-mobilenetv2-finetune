@@ -20,7 +20,8 @@ Batik diakui sebagai warisan budaya dunia oleh UNESCO. Namun, pemahaman masyarak
 ## Data Understanding  
 
 Dataset yang digunakan dikumpulkan dari riset dosen dan Repositori Digital Batik Jawa Timur, terdiri dari:  
-- **420 gambar batik terkurasi**, disertai label (4 tema: Aristektur, Budaya, Flora, Fauna).    
+- **420 gambar batik terkurasi**, disertai label (4 tema: Aristektur, Budaya, Flora, Fauna).
+Link: https://drive.google.com/drive/folders/1q5DXM-7DP_7K_vNUtATjUN9pHhu9cPk4?usp=sharing
 
 Data 420 gambar tersebut akan diproses melalui _augmentation_ untuk memperkaya variasi.  
 
@@ -45,9 +46,9 @@ Tahapan persiapan data yang dilakukan:
 
 ### Model Klasifikasi (_MobileNet v2_)  
 Sistem klasifikasi dibangun berdasarkan _MobileNet v2_ custom.  
-- **Arsitektur**: 2 convolutional block + dense layer.  
+- **Arsitektur**: convolutional block + dense layer.  
 - **Format penyimpanan model**: tflite
-- **Optimasi**: _Batch processing_, _learning rate schedule_  
+- **Optimasi**: _Batch processing_, _learning rate_  
 Model di-train pada gambar batik untuk mengenali pola spesifik masing-masing label.  
 
 #### Hasil Evaluasi 
