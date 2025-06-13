@@ -64,3 +64,5 @@ Solusi model ini memungkinkan:
 
 ## Kesimpulan  
 Proyek ini berhasil mendemonstrasikan kombinasi model CNN untuk klasifikasi motif dalam konteks warisan budaya. Hasil evaluasi menunjukkan performa teknis yang baik, serta relevansi budaya yang dijaga melalui validasi manual. Sistem ini dapat dikembangkan lebih lanjut menjadi platform web/AI service untuk edukasi dan industri kreatif, serta berpotensi memperkaya dokumentasi digital batik Indonesia secara signifikan.  
+
+gdrive capstone team: https://drive.google.com/drive/folders/1tXce4ojwiTLXARUlalLE0isx8sr3NAf2?usp=sharing 
